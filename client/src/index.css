@@ -1,0 +1,9 @@
+html, body {
+  min-width: 0 !important;
+}
+/* #root{
+background-color: "red";
+} */
+#zmmtg-root {
+  display: none;
+}
